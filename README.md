@@ -17,7 +17,7 @@
 
 ### Certifications 🏅
 
-- Microsoft Azure Security Engineer
+- ![Azure Security Engineer Associate](https://www.credly.com/badges/6f0c83af-80ea-4be1-9d13-182a9409c95b/public_url)
 
 ---
 
