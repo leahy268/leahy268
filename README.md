@@ -16,10 +16,9 @@
 ---
 
 ### Certifications 🏅
-[[imgBadge]]
-| ![Azure Security Engineer Associate](https://images.credly.com/size/100x100/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)
-[[imgBadge]]
-| [<img src="./sa-csm-600.png" alt="Scrum Alliance Certified Scrum Master" width="100" height="100">](https://bcert.me/bc/html/show-badge.html?b=fzbdxrel)
+
+ ![Azure Security Engineer Associate](https://images.credly.com/size/100x100/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)
+[<img src="./sa-csm-600.png" alt="Scrum Alliance Certified Scrum Master" width="100" height="100">](https://bcert.me/bc/html/show-badge.html?b=fzbdxrel)
 
 ---
 
