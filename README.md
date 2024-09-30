@@ -16,19 +16,37 @@
 ---
 
 ### Certifications 🏅
-[![Azure Security Engineer Associate](https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)]
-[![Scrum Alliance Certified Scrum Master](./sa-csm-600.png)](http://example.com](https://bcert.me/bc/html/show-badge.html?b=fzbdxrel)
+[[imgBadge]]
+| ![Azure Security Engineer Associate](https://images.credly.com/size/100x100/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)
+[[imgBadge]]
+| [<img src="./sa-csm-600.png" alt="Scrum Alliance Certified Scrum Master" width="100" height="100">](https://bcert.me/bc/html/show-badge.html?b=fzbdxrel)
 
 ---
 
 ### About Me 🚀
 
-I'm **Warwick Leahy**, a Senior Systems Administrator from Brisbane with over 20 years of experience in the IT field. After completing my Bachelor's in Information Technology, I've delved deep into the realms of **Azure**, **Bicep**, and **Hyper-V**, ensuring that I'm always at the forefront of cloud infrastructure and design. 
+Warwick is a seasoned Systems Administrator and IT Solutions Architect with over 20 years of experience. His strong background spans network management, Windows Server Administration, and cloud solutions, making him adept at bridging the gap between technology and user needs. As a Certified Scrum Master, he leverages agile methodologies to drive innovation and efficiency.
 
-My passion lies in leveraging tools like **PowerShell** and **Power Automate** to automate processes, while my expertise in **Microsoft Endpoint Configuration Manager** and **Microsoft Intune** helps me manage and maintain large-scale deployments seamlessly. I'm also an avid **DevOps** enthusiast, with significant experience in **GitHub Actions**, emphasizing collaboration and continuous improvement in all my projects.
+**Industries**: Education, Technology Services, Business Solutions
 
-Whether it's database management with **SQL Server**, crafting solutions in **Azure**, or data visualization in **Power BI**, I always strive to bring innovation and efficiency to the table, ensuring the highest standards in all I do.
+**Technologies**:
+- **Cloud & Infrastructure**: Azure (Azure Active Directory, Azure Virtual Network, Azure SQL), Bicep, Hyper-V, Windows Server Administration
+- **Management & Automation**: Microsoft Endpoint Configuration Manager, Microsoft Intune, PowerShell, Power Automate, DevOps, GitHub Actions
+- **Networking**: Routing and Switching
+- **Collaboration & Reporting**: SharePoint, Power Apps, Power BI, SQL Server
+- **Customer Support**: Zendesk
 
----
+**Key Skills and Achievements**:
+- **Network Management & Windows Server Administration**: Expert in routing, switching, and managing Windows Server environments to ensure optimal performance and security.
+- **Cloud Infrastructure**: Proficient in deploying and managing scalable, resilient cloud solutions using the Azure ecosystem.
+- **DevOps & Automation**: Skilled in automating workflows and streamlining development lifecycles using PowerShell, GitHub Actions, Bicep, and Azure DevOps.
+- **Low-Code Development**: Experienced in creating collaborative workspaces and rapid applications with SharePoint, Power Automate, and Power Apps.
+- **Training & User Support**: Provides comprehensive training on Microsoft operating systems and servers; adept with Zendesk for enhanced customer support.
+- **Data Analytics**: Utilizes Power BI to enable data-driven decision-making within organizations.
+- **IT Security**: Implements robust security practices to safeguard systems against internal and external threats.
 
+**Professional Development**:
+- **Certified Scrum Master**
+- **Azure Security Engineer Associate**
 
+Warwick's dedication to excellence enhances productivity, security, and overall system performance. His holistic approach to IT solutions drives business growth and fosters innovation.
