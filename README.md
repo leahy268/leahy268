@@ -1,6 +1,6 @@
 # Warwick Leahy
 
-## Senior Systems Administrator, Brisbane
+## Senior Modern Work Consultant, Brisbane
 
 🎓 **Education:** Bachelor of Information Technology
 
